@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iDev07
 - 👀 I’m interested in Programmimg
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Happy people :)
 - 📫 How to reach me idevdiyor@gmail.com
 
 <!---
