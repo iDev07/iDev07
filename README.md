@@ -12,3 +12,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
  -->
+<meta name="description" content="Hi! If you have any questions, contact me on Instagram! Just search DIYOR.DEV :)">
+<meta name="keywords" content="Diyorbek Kadirkulov, Diyor Kadirkulov, Diyorbek Qodirqulov, Diyor Qodirqulov, iDev07, idev07" />
