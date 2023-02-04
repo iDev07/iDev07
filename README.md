@@ -13,8 +13,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?iDev07=anuraghazra&show_icons=true&theme=dark)
-[!GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idev07&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iDev07)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDev07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div>
