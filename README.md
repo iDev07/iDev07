@@ -14,10 +14,10 @@
   </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?iDev07=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDev07&show_icons=true&theme=dark)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iDev07)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iDev07&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDev07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div>
